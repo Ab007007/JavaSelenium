@@ -1,0 +1,19 @@
+package com.synechron.java.datatypes;
+
+public class DataTypesDemo {
+
+	
+	public static void main(String[] args) 
+	{
+		boolean flag = true;
+		int age = 16;
+		double height = 5.8;
+		float weight = 74.5f;
+		long bignum = 100000000000000000L;
+		char ch ='A';
+		
+		
+		System.out.println("Boolean Value " + flag);
+		
+	}
+}

@@ -1,0 +1,26 @@
+package com.synechron.java.ib;
+
+public class IIB {
+	
+	{
+		System.out.println("IIB Executed first");
+	}
+	
+	public IIB() {
+		System.out.println("Constructor called");
+	}
+	
+	
+	
+	public static void main(String[] args) 
+	{
+		
+		new IIB();
+		new IIB();
+		new IIB();
+		new IIB();
+		new IIB();
+		new IIB();
+		
+	}
+}

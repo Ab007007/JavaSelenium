@@ -1,0 +1,20 @@
+package com.synechron.java.variables;
+
+public class Person {
+
+	
+	@Override
+	public String toString() {
+		String str = "The Object Values are \n "
+				+ "Person Name : " + this.name;
+	}
+	//Global Variables
+	public String name;
+	public long phoneNumber;
+	public double height;
+	public double weight;
+	public final static String company = "Synechron";
+	public static String country = "India";
+	
+	
+}

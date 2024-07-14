@@ -1,0 +1,9 @@
+package com.synechron.java.variables;
+
+public class PersonManager {
+
+	
+	public static void main(String[] args) {
+		
+	}
+}

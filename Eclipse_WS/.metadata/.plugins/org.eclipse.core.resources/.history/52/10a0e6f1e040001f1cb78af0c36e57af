@@ -1,0 +1,10 @@
+package com.synechron.java.datatypes;
+
+public class ArraysDemo {
+
+	
+	public static void main(String[] args) {
+		
+		String[] fruits = {"Apple", "Orange", "Banana"}; 
+	}
+}

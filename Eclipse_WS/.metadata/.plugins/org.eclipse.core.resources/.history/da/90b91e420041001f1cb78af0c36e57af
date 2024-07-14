@@ -1,0 +1,6 @@
+package com.synechron.java.abstrac;
+
+public class Triangle extends Geometry 
+{
+
+}

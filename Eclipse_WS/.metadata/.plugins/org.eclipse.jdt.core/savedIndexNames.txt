@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Trainings\Synechron_13_07_Weekend_Java\Eclipse_WS\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3413725848.index
+776178153.index

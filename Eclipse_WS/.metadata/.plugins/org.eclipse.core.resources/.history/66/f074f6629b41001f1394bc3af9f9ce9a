@@ -1,0 +1,28 @@
+package com.synechron.java.string;
+
+import java.util.Iterator;
+
+public class StringPrograms {
+
+	static String str = "Hello Everyone, How are you doing today";
+	
+	
+	public static void main(String[] args) {
+		
+		reverseString();
+	}
+
+
+	private static void reverseString() {
+		System.out.println("--------------String Reverse------------------------");
+		for (int i = str.length()-1; i >= 0 ; i--) 
+		{
+			System.out.print(str.charAt(i));
+		}
+		System.out.println("-----------------------------------------------------");
+		
+	}
+	
+	
+	
+}

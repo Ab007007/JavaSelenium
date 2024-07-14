@@ -1,0 +1,23 @@
+package com.synechron.java.files;
+
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class WriteFileDemo {
+
+	
+	public static void main(String[] args) {
+		
+		FileWriter fw = null;
+		try
+		{
+			fw = new FileWriter("fiiles//newFile.txt");
+		}
+		catch(IOException ex)
+		{
+			System.out.println("Exception while writing to file!!!");
+		}
+			
+		
+	}
+}

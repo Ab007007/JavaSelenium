@@ -1,0 +1,15 @@
+package com.synechron.java.variables;
+
+public class Person {
+
+	//Global Variables
+	String name;
+	long phoneNumber;
+	double height;
+	double weight;
+	String company;
+	String country;
+	
+	
+	
+}
