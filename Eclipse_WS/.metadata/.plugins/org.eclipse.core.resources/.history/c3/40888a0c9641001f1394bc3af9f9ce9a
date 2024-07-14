@@ -1,0 +1,27 @@
+package com.synechron.java.string;
+
+public class StringFunctions 
+{
+	
+	public static void main(String[] args) 
+	{
+		
+		String str = new String("ahb123@gmail.com");
+		
+		System.out.println("Length of the String : " + str.length());
+		
+		System.out.println("Character of a given index : " + str.charAt(0));
+		
+		System.out.println("Index of a given character : " + str.indexOf("@"));
+		
+		System.out.println("Last Index of a given character : " + str.lastIndexOf("@"));
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

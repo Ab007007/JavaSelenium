@@ -1,0 +1,26 @@
+package com.synechron.java.collection;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.synechron.java.constructor.Employee;
+
+public class ArrayListDemo {
+	
+	public static void main(String[] args) {
+		
+		List al = new ArrayList();
+		System.out.println("Total elements : " + al.size());
+		
+		al.add("Aravinda");
+		al.add(40);
+		al.add(6566444646);
+		al.add(true);
+		al.add(new Employee());
+		
+		System.out.println("Total elements : " + al.size());
+				
+		
+	}
+
+}

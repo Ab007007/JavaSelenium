@@ -1,0 +1,16 @@
+package com.synechron.java.exceptions;
+
+public class UncheckedExcceptiondDemo 
+{
+	
+	public static void main(String[] args) 
+	{
+		System.out.println("Main Started");
+		String str= null;
+		System.out.println("Length of the String : " + str.length());
+		System.out.println("Main Ended");
+		
+		
+	}
+
+}

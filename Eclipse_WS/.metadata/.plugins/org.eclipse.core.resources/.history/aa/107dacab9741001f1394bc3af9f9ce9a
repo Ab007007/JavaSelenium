@@ -1,0 +1,48 @@
+package com.synechron.java.string;
+
+public class StringFunctions 
+{
+	
+	public static void main(String[] args) 
+	{
+		
+		String str = new String("ahb123@gmail.com");
+		
+		System.out.println("Length of the String : " + str.length());
+		
+		System.out.println("Character of a given index : " + str.charAt(0));
+		
+		System.out.println("Index of a given character : " + str.indexOf("@"));
+		
+		System.out.println("Last Index of a given character : " + str.lastIndexOf("@"));
+		
+		System.out.println("Find char after @ " + str.indexOf("a", str.indexOf("@")));
+		
+		System.out.println("Partial String " + str.substring(0, str.indexOf("@")));
+		
+		System.out.println("Contains string " + str.contains(".com"));
+		
+		System.out.println("Equals : " + str.equals("ahb123@gmail.com"));
+		
+		System.out.println("Equals : " + str.equalsIgnoreCase("AHB123@gmail.com"));
+		
+		System.out.println("Starts with : " + str.startsWith("a"));
+		
+		System.out.println("Ends with : " + str.endsWith("com"));
+		
+		System.out.println("Replace with : " + str.replace("ahb123", "aravindahb"));
+		
+		
+		String str2 = "    ABC   ";
+		
+		System.out.println("Length of the string : " + str2.length());
+		
+		System.out.println("Trim and get length " + str2.trim().length());
+		
+		
+		
+		
+		
+	}
+
+}

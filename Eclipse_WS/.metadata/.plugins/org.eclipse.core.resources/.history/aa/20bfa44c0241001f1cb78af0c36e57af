@@ -1,0 +1,10 @@
+package com.synechron.java.constructor;
+
+import com.synechron.java.variables.Person;
+
+public class Employee extends Person
+{
+	
+	
+
+}

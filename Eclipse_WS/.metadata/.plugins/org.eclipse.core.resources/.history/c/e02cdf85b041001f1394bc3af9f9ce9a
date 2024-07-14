@@ -1,0 +1,10 @@
+package com.synechron.java.inheritance;
+
+public interface LivingOrganism {
+
+	void breath();
+	
+	void see();
+	
+	void sense();
+}

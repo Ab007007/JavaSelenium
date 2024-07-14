@@ -1,0 +1,20 @@
+package com.synechron.java.exceptions;
+
+import java.io.File;
+
+public class ExceptionsDemo 
+{
+	
+	public static void main(String[] args) 
+	{
+	
+		File f = new File("files//newException.txt");
+		
+		
+	}
+	
+	
+	
+	
+
+}

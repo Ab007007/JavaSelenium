@@ -1,0 +1,12 @@
+package com.synechron.java.collection.set;
+
+public class HashSetDemo {
+
+	
+	public static void main(String[] args) 
+	{
+		
+		
+		
+	}
+}

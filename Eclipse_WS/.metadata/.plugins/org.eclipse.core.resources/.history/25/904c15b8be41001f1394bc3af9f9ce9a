@@ -1,0 +1,13 @@
+package com.synechron.java.exceptions;
+
+public class ExceptionsDemo 
+{
+	
+	public static void main(String[] args) 
+	{
+		
+		
+		
+	}
+
+}

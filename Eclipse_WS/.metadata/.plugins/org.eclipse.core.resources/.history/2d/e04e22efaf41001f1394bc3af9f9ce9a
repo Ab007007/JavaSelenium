@@ -1,0 +1,25 @@
+package com.synechron.java.inheritance;
+
+public class Dog extends Animal 
+{
+
+	void bark() {
+		System.out.println("The dog barks...");
+	}
+	
+	@Override
+	void eat() {
+		System.out.println("Dog eat Pedigree / non-veg / veg");
+	}
+	
+	
+}
+
+
+class puppy extends Dog
+{
+	void weep() {
+		System.out.println("Puppy weeps ...");
+	}
+	
+}
