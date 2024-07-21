@@ -1,5 +1,0 @@
-package com.synechron.java.exceptions;
-
-public class InsufficientBalanceException {
-
-}
