@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-21T11:33:48 IST" name="Default suite" finished-at="2024-07-21T11:33:57 IST" duration-ms="9639">
+  <suite started-at="2024-07-21T14:37:53 IST" name="Default suite" finished-at="2024-07-21T14:38:06 IST" duration-ms="12868">
     <groups>
     </groups>
-    <test started-at="2024-07-21T11:33:48 IST" name="Default test" finished-at="2024-07-21T11:33:57 IST" duration-ms="9639">
-      <class name="com.synechron.selenium.SeleniumTraining.waits.FluentWaitUsingFunctionDemo">
-        <test-method signature="waitTillSpecificConditionMet()[pri:0, instance:com.synechron.selenium.SeleniumTraining.waits.FluentWaitUsingFunctionDemo@77fbd92c]" started-at="2024-07-21T11:33:48 IST" name="waitTillSpecificConditionMet" finished-at="2024-07-21T11:33:57 IST" duration-ms="9562" status="PASS">
+    <test started-at="2024-07-21T14:37:53 IST" name="Default test" finished-at="2024-07-21T14:38:06 IST" duration-ms="12868">
+      <class name="com.synechron.selenium.SeleniumTraining.switchto.SwitchToDemo">
+        <test-method signature="alertHandling()[pri:1, instance:com.synechron.selenium.SeleniumTraining.switchto.SwitchToDemo@1a482e36]" started-at="2024-07-21T14:37:53 IST" name="alertHandling" finished-at="2024-07-21T14:37:59 IST" duration-ms="5292" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- waitTillSpecificConditionMet -->
-      </class> <!-- com.synechron.selenium.SeleniumTraining.waits.FluentWaitUsingFunctionDemo -->
+        </test-method> <!-- alertHandling -->
+        <test-method signature="multipleBrowserHandling()[pri:2, instance:com.synechron.selenium.SeleniumTraining.switchto.SwitchToDemo@1a482e36]" started-at="2024-07-21T14:37:59 IST" name="multipleBrowserHandling" finished-at="2024-07-21T14:38:00 IST" duration-ms="1877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleBrowserHandling -->
+        <test-method signature="frameHandling()[pri:3, instance:com.synechron.selenium.SeleniumTraining.switchto.SwitchToDemo@1a482e36]" started-at="2024-07-21T14:38:00 IST" name="frameHandling" finished-at="2024-07-21T14:38:06 IST" duration-ms="5617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frameHandling -->
+      </class> <!-- com.synechron.selenium.SeleniumTraining.switchto.SwitchToDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

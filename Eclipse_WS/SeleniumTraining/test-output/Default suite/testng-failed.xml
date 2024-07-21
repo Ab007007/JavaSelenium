@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.synechron.selenium.SeleniumTraining.tooltip.AutomateToolTip">
+      <class name="com.synechron.selenium.SeleniumTraining.switchto.SwitchToDemo">
         <methods>
-          <include name="toolTipGoogle"/>
+          <include name="multipleBrowserHandling"/>
+          <include name="alertHandling"/>
         </methods>
-      </class> <!-- com.synechron.selenium.SeleniumTraining.tooltip.AutomateToolTip -->
+      </class> <!-- com.synechron.selenium.SeleniumTraining.switchto.SwitchToDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

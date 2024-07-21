@@ -103,8 +103,8 @@ public class DriverUtils {
 				//3. polling time
 				//4. Can i allowed to ignore exception 
 				FluentWait<WebElement> wait = new FluentWait<WebElement>(ele)
-						.pollingEvery(Duration.ofMillis(500))
-						.withTimeout(Duration.ofSeconds(20))
+						.pollingEvery(Duration.ofMillis(pollingTime))
+						.withTimeout(Duration.ofSeconds(maxTimout))
 						.ignoring(NoSuchElementException.class)
 						.ignoring(Exception.class);
 				
