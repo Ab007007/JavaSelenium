@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-20T16:21:08 IST" name="Default suite" finished-at="2024-07-20T16:21:18 IST" duration-ms="9578">
+  <suite started-at="2024-07-21T10:27:43 IST" name="Default suite" finished-at="2024-07-21T10:27:51 IST" duration-ms="8437">
     <groups>
     </groups>
-    <test started-at="2024-07-20T16:21:08 IST" name="Default test" finished-at="2024-07-20T16:21:18 IST" duration-ms="9578">
-      <class name="com.synechron.selenium.SeleniumTraining.suggestions.AutoSuggestions">
-        <test-method signature="printSuggestions()[pri:0, instance:com.synechron.selenium.SeleniumTraining.suggestions.AutoSuggestions@4ec4f3a0]" started-at="2024-07-20T16:21:08 IST" name="printSuggestions" finished-at="2024-07-20T16:21:18 IST" duration-ms="9519" status="PASS">
+    <test started-at="2024-07-21T10:27:43 IST" name="Default test" finished-at="2024-07-21T10:27:51 IST" duration-ms="8437">
+      <class name="com.synechron.selenium.SeleniumTraining.waits.WebDriverWaitDemo">
+        <test-method signature="waitTillSpecificConditionMet()[pri:0, instance:com.synechron.selenium.SeleniumTraining.waits.WebDriverWaitDemo@49139829]" started-at="2024-07-21T10:27:43 IST" name="waitTillSpecificConditionMet" finished-at="2024-07-21T10:27:51 IST" duration-ms="8361" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- printSuggestions -->
-      </class> <!-- com.synechron.selenium.SeleniumTraining.suggestions.AutoSuggestions -->
+        </test-method> <!-- waitTillSpecificConditionMet -->
+      </class> <!-- com.synechron.selenium.SeleniumTraining.waits.WebDriverWaitDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

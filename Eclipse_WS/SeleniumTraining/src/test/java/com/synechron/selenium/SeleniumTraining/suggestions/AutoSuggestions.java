@@ -1,5 +1,6 @@
 package com.synechron.selenium.SeleniumTraining.suggestions;
 
+import java.time.Duration;
 import java.util.List;
 
 import org.openqa.selenium.By;
@@ -18,11 +19,14 @@ public class AutoSuggestions {
 
 		WebDriver driver = null;
 		driver = new ChromeDriver();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		driver.manage().window().maximize();
+
 		
 		driver.get("https://www.google.com/");
 		driver.findElement(By.name("q")).sendKeys("Synechron");
 		
-		Thread.sleep(5000);
+//		Thread.sleep(5000);
 		List<WebElement> suggestions = driver.findElements(By.xpath("//ul[@role='listbox']/li"));		
 		
 		for (WebElement suggestion : suggestions) 
