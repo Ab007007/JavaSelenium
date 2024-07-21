@@ -1416,3 +1416,266 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.gu
 2024-07-21 14:37:36,387 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2024-07-21 14:37:36,388 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-07-21 14:37:36,388 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 14:41:25,265 [Worker-198: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 14:41:25,272 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 14:41:25,273 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 14:41:25,275 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 14:41:25,275 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:04:49,390 [Worker-203: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:04:59,421 [Worker-203: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:04:59,427 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:04:59,428 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:04:59,431 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:04:59,431 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:05:48,315 [Worker-202: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:05:48,319 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:05:48,320 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:05:48,322 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:05:48,323 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:05:58,932 [Worker-203: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:05:58,938 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:05:58,940 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:05:58,943 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:05:58,944 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:07:33,492 [Worker-205: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:07:33,500 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:07:33,501 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:07:33,504 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:07:33,505 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:09:05,594 [Worker-201: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:09:05,600 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:09:05,600 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:09:05,603 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:09:05,603 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:09:37,325 [Worker-204: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:09:37,328 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:09:37,330 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:09:37,332 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:09:37,332 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:10:15,456 [Worker-201: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:10:15,461 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:10:15,462 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:10:15,464 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:10:15,464 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:10:42,353 [Worker-203: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:10:42,358 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:10:42,359 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:10:42,361 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:10:42,362 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:11:29,298 [Worker-205: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:11:29,302 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:11:29,303 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:11:29,305 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:11:29,306 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:12:22,498 [Worker-205: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:12:22,504 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:12:22,505 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:12:22,508 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:12:22,508 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:13:54,624 [Worker-203: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:13:54,629 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:13:54,630 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:13:54,632 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:13:54,632 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:14:03,066 [Worker-205: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:14:03,071 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:14:03,072 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:14:03,076 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:14:03,076 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:14:18,851 [Worker-201: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:14:18,854 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:14:18,855 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:14:18,857 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:14:18,857 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:14:36,974 [Worker-203: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:14:36,980 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:14:36,981 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:14:36,984 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:14:36,985 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:14:44,859 [Worker-203: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:14:44,863 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:14:44,864 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:14:44,866 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:14:44,867 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:14:56,727 [Worker-203: Launching SeleniumTraining_sanity.xml] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:14:56,733 [Worker-203: Launching SeleniumTraining_sanity.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:14:56,734 [Worker-203: Launching SeleniumTraining_sanity.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:14:56,736 [Worker-203: Launching SeleniumTraining_sanity.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:14:56,737 [Worker-203: Launching SeleniumTraining_sanity.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:15:19,109 [Worker-201: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:15:19,112 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:15:19,113 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:15:19,116 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:15:19,117 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:15:29,021 [Worker-205: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:15:29,024 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:15:29,025 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:15:29,026 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:15:29,026 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:15:48,627 [Worker-202: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:15:48,631 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:15:48,632 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:15:48,634 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:15:48,635 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:15:55,807 [Worker-205: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:15:55,810 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:15:55,811 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:15:55,813 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:15:55,813 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:16:18,419 [Worker-202: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:16:18,423 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:16:18,423 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:16:18,428 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:16:18,429 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:16:48,289 [Worker-206: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:16:48,294 [Worker-206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:16:48,295 [Worker-206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:16:48,297 [Worker-206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:16:48,298 [Worker-206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:23:45,342 [Worker-203: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:23:45,347 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:23:45,349 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:23:45,351 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:23:45,352 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:23:58,706 [Worker-203: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:23:58,710 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:23:58,711 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:23:58,714 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:23:58,715 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:30:18,962 [Worker-213: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:30:18,967 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:30:18,967 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:30:18,969 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:30:18,970 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:30:58,153 [Worker-212: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:30:58,163 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:30:58,164 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:30:58,166 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:30:58,167 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:31:22,918 [Worker-216: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:31:22,922 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:31:22,923 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:31:22,925 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:31:22,925 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:59:51,920 [Worker-219: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:59:53,081 [Worker-219: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 15:59:53,086 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:59:53,087 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:59:53,090 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 15:59:53,091 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 15:59:58,341 [Worker-216: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:00:24,996 [Worker-216: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:00:25,002 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:00:25,002 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:00:25,004 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:00:25,004 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:00:49,202 [Worker-221: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:00:49,207 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:00:49,208 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:00:49,210 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:00:49,211 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:00:54,791 [Worker-219: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:00:54,796 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:00:54,796 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:00:54,799 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:00:54,800 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:03:28,778 [Worker-216: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:03:28,782 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:03:28,783 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:03:28,785 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:03:28,786 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:03:49,789 [Worker-219: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:03:49,793 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:03:49,794 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:03:49,796 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:03:49,797 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:04:05,644 [Worker-219: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:04:05,648 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:04:05,649 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:04:05,651 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:04:05,651 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:05:09,244 [Worker-222: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:05:09,251 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:05:09,252 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:05:09,253 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:05:09,254 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:05:55,224 [Worker-216: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:05:55,229 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:05:55,230 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:05:55,232 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:05:55,232 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:06:34,722 [Worker-216: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:06:34,726 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:06:34,728 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:06:34,729 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:06:34,730 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:06:45,891 [Worker-219: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:06:45,894 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:06:45,895 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:06:45,896 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:06:45,897 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:07:00,679 [Worker-223: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:07:00,683 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:07:00,683 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:07:00,685 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:07:00,685 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:10:43,538 [Worker-223: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:10:43,545 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:10:43,546 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:10:43,549 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:10:43,550 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:10:55,574 [Worker-221: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:10:55,579 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:10:55,580 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:10:55,582 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:10:55,583 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:12:01,030 [Worker-219: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:12:01,034 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:12:01,035 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:12:01,045 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:12:01,046 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:12:25,529 [Worker-216: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:12:25,532 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:12:25,533 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:12:25,535 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:12:25,535 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:12:45,554 [Worker-216: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:12:45,556 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:12:45,556 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:12:45,557 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:12:45,557 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:14:42,379 [Worker-223: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:14:42,383 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:14:42,384 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:14:42,386 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:14:42,388 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:14:49,335 [Worker-226: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:14:49,341 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:14:49,342 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:14:49,344 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:14:49,345 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:14:53,628 [Worker-225: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:14:53,631 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:14:53,632 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:14:53,634 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:14:53,634 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:15:17,111 [Worker-222: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:15:17,115 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:15:17,116 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:15:17,119 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:15:17,120 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:15:36,799 [Worker-225: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:15:36,804 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:15:36,805 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:15:36,806 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:15:36,807 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:15:48,558 [Worker-223: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:15:48,560 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:15:48,560 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:15:48,562 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:15:48,562 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:16:28,080 [Worker-224: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-07-21 16:16:28,084 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:16:28,085 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-21 16:16:28,087 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-21 16:16:28,088 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

@@ -1,13 +1,24 @@
 package com.synechron.selenium.SeleniumTraining.dropdown;
 
+import java.io.IOException;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.Select;
+import org.testng.annotations.AfterSuite;
 import org.testng.annotations.Test;
 
 import com.synechron.selenium.SeleniumTraining.utils.DriverUtils;
 
 public class DropDownDemo extends DriverUtils 
 {
+	
+	@AfterSuite
+	public void cleanupDriverInstances() throws IOException
+	{
+		driver.quit();
+		Runtime.getRuntime().exec("taskkill /F /IM chromedriver.exe");
+		Runtime.getRuntime().exec("taskkill /F /IM edgedriver.exe");
+	}
 	
 	@Test
 	public void dropDownwithCustomTag() throws InterruptedException

@@ -33,7 +33,6 @@ INDEX VERSION 1.134+C:\Trainings\Synechron_13_07_Weekend_Java\Eclipse_WS\.metada
 3862375644.index
 2838455128.index
 3413725848.index
-768384486.index
 1118903679.index
 1341975625.index
 776178153.index

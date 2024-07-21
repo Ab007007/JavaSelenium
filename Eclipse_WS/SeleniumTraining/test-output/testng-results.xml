@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-21T14:37:53 IST" name="Default suite" finished-at="2024-07-21T14:38:06 IST" duration-ms="12868">
+  <suite started-at="2024-07-21T16:16:39 IST" name="Default suite" finished-at="2024-07-21T16:16:47 IST" duration-ms="7500">
     <groups>
     </groups>
-    <test started-at="2024-07-21T14:37:53 IST" name="Default test" finished-at="2024-07-21T14:38:06 IST" duration-ms="12868">
-      <class name="com.synechron.selenium.SeleniumTraining.switchto.SwitchToDemo">
-        <test-method signature="alertHandling()[pri:1, instance:com.synechron.selenium.SeleniumTraining.switchto.SwitchToDemo@1a482e36]" started-at="2024-07-21T14:37:53 IST" name="alertHandling" finished-at="2024-07-21T14:37:59 IST" duration-ms="5292" status="PASS">
+    <test started-at="2024-07-21T16:16:39 IST" name="Default test" finished-at="2024-07-21T16:16:47 IST" duration-ms="7500">
+      <class name="test.DragAndDrop">
+        <test-method is-config="true" signature="initPages()[pri:0, instance:test.DragAndDrop@78691363]" started-at="2024-07-21T16:16:39 IST" name="initPages" finished-at="2024-07-21T16:16:43 IST" duration-ms="3406" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- alertHandling -->
-        <test-method signature="multipleBrowserHandling()[pri:2, instance:com.synechron.selenium.SeleniumTraining.switchto.SwitchToDemo@1a482e36]" started-at="2024-07-21T14:37:59 IST" name="multipleBrowserHandling" finished-at="2024-07-21T14:38:00 IST" duration-ms="1877" status="PASS">
+        </test-method> <!-- initPages -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:test.DragAndDrop@78691363]" started-at="2024-07-21T16:16:43 IST" name="launchApp" finished-at="2024-07-21T16:16:45 IST" duration-ms="2107" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- multipleBrowserHandling -->
-        <test-method signature="frameHandling()[pri:3, instance:com.synechron.selenium.SeleniumTraining.switchto.SwitchToDemo@1a482e36]" started-at="2024-07-21T14:38:00 IST" name="frameHandling" finished-at="2024-07-21T14:38:06 IST" duration-ms="5617" status="PASS">
+        </test-method> <!-- launchApp -->
+        <test-method signature="dragAndDropDemo()[pri:0, instance:test.DragAndDrop@78691363]" started-at="2024-07-21T16:16:45 IST" name="dragAndDropDemo" finished-at="2024-07-21T16:16:46 IST" duration-ms="784" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- frameHandling -->
-      </class> <!-- com.synechron.selenium.SeleniumTraining.switchto.SwitchToDemo -->
+        </test-method> <!-- dragAndDropDemo -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:test.DragAndDrop@78691363]" started-at="2024-07-21T16:16:46 IST" name="launchApp" finished-at="2024-07-21T16:16:46 IST" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="dropDown()[pri:0, instance:test.DragAndDrop@78691363]" started-at="2024-07-21T16:16:46 IST" name="dropDown" finished-at="2024-07-21T16:16:47 IST" duration-ms="535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDown -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:test.DragAndDrop@78691363]" started-at="2024-07-21T16:16:47 IST" name="cleanUp" finished-at="2024-07-21T16:16:47 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- test.DragAndDrop -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
